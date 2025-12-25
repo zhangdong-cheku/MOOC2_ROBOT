@@ -69,6 +69,9 @@ Artistic Creation: with brushes and engraving tools, it can complete small-scale
 ## V. E-commerce/Retail: Small Batch Packaging and Shipping
 Small e-commerce sellers can use the robotic arm to assist in the packaging of express parcels: picking up and applying express labels, bagging small items (such as jewelry, beauty samples), and applying sealing labels, reducing repetitive labor and improving shipping efficiency.
 
+## 致谢
+感谢项目组成员任明星在项目迭代与数据处理中做出的贡献，感谢张东老师在项目方案上的精准指导，也感谢项目组其他成员的通力协作。
+
 ## 加入社区
 <p align="center">  
   <img src="QQ群/QQ群.png" width="200"/>
